@@ -1,0 +1,578 @@
+body{
+    margin:0%
+}
+.navbar{
+    display:flex;
+    align-items:center;
+    justify-content: space-evenly;
+    padding:2% 0%;
+
+}
+.navbar a{
+    text-decoration: none;
+    color:black;
+    font-size: 1.2rem;
+}
+.logo{
+    font-size: 2rem !important;
+    
+}
+.navbar i{
+    font-size: 1.4rem;
+    color:rgba(0,0,0.7);
+    
+}
+.streamx{
+    background-image: url("	https://edge.rode.com/images/page/1/modules/8063/StreamerX-Header-right.jpg");
+    background-size: cover;
+    min-height: 90vh;
+    padding: 5%;
+    position: relative;
+    background-position: center;
+}
+.streamx>div{
+    width:40%;
+    text-align: center;
+    position: absolute;
+    top:20%;
+    left:10%;
+
+}
+.streamx a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color:#ad9970;
+}
+.streamx span{
+    background-color: #ad9970;
+    color:white;
+    padding: 2%;
+    margin-left:3%;
+    border-radius: 25px;
+    font-size: 1.rem;
+}
+.ROADCASTERDUO{
+    background-image: url("	https://edge.rode.com/images/page/1/modules/8061/DUO-Change-over-01.jpg");
+    background-size: cover;
+    min-height: 90vh;
+    background-position: center;
+    position: relative;
+    padding: 5%;
+
+}
+.ROADCASTERDUO>div{
+    width:40%;
+    text-align: center;
+    margin-top: 8%;
+    margin-left: 60%;
+    
+    left:40%;
+    font-size: 1.4rem;
+    
+
+}
+
+.ROADCASTERDUO h1{
+    color:white;
+    font-size:1.6rem;
+    
+}
+.ROADCASTERDUO p{
+    color:#807f77;
+    font-size: 1.1rem;
+    font-style:bold;
+    line-height: 22px;
+}
+.ROADCASTERDUO a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color:#ad9970;
+}
+.ROADCASTERDUO span{
+    background-color: #ad9970;
+    color:white;
+    padding:2%;
+    margin-left: 3%;
+    font-size:1.3rem;
+    border-radius:50px;
+
+}
+.BACKPACK{
+    background-image: url("https://edge.rode.com/images/page/1/modules/7785/rode-rcp-backpack-insitu-city-web-banner-6406x2336-rgb-1920x700-8c89d38a.jpg");
+
+    background-position: center;
+    background-size:cover;
+    min-height: 90vh;
+    position:relative;
+    padding:5%;
+    
+}
+.BACKPACK>div{
+    width:40%;
+    text-align:center;
+    top:30%;
+    padding-right:50%;
+    align-items:center;
+    justify-content:center;
+    padding-top:15%;
+    font-size:1.09rem;
+    
+    
+
+}
+.BACKPACK h1{
+    color:white;
+}
+.BACKPACK p{
+    color:darkgrey;
+    font-size: 1.34rem;
+    width:135%;
+}
+.BACKPACK a{
+    text-decoration: none;
+    font-size:1.3rem;
+    color:#ad9970;
+    font-style: bold;
+
+}
+.BACKPACK span{
+    background-color: #ad9970;
+    color:white;
+    padding:2%;
+    margin-left: 3%;
+    font-size:1.3rem;
+    border-radius: 50px;
+}
+.PODMIC{
+    background-image: url("	https://edge.rode.com/images/page/1/modules/8062/Podmic-Header-Change-over.jpg");
+    background-position: center;
+    background-size: cover;
+    position:relative;
+    padding: 5%;
+    min-height:90vh;
+    
+    
+
+}
+.PODMIC>div{
+    width:40%;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 60%;
+
+    
+}
+.PODMIC h1{
+    color:black;
+    text-transform:capitalize;
+    font-size: 2rem;
+}
+.PODMIC p{
+    color:#807f77;
+    font-size: 1.2rem;
+
+}
+.PODMIC a{
+    text-decoration: none;
+    color:#ad9970;
+    font-size: 15px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.PODMIC span{
+    background-color: #ad9970;
+    color:white;
+    padding: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    border-radius: 40px;
+    
+}
+.WIME{
+    background-image:url("https://edge.rode.com/images/page/1/modules/7728/rode-wireless-me-insitu-pastel-livingroom-mobile-sefie-with-iPhone-sc21-6040x2200-rgb-1921x700-8c89d38 (1).jpg");
+
+
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 5%;
+    min-height: 90vh;
+}
+.WIME>div{
+    width: 40%;
+    margin-right: 60%;
+    margin-top: 10%;text-align: center;
+}
+.WIME h1{
+    color:black;
+    font-size: 1.6rem;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.WIME p{
+    color:#807f77;
+    font-size: 1.2rem;
+    font-stretch:semi-expanded;
+    
+}
+.WIME a{
+    color:#ad9970;
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.WIME span{
+    background-color: #ad9970;
+    color: white;
+    padding: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 50px;
+}
+.NT1{
+    background-image: url("https://edge.rode.com/images/page/1/modules/7727/rode-nt1-5g-silver-home-studio-profile-webbanner-13473x4912-rgb-1921x700-8c89d38.jpg");
+
+    background-position: center;
+    background-size: cover;
+    position:relative;
+    padding: 5%;
+    min-height:90vh;
+    
+    
+}
+.NT1>div{
+    width:40%;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 60%;
+
+
+}
+.NT1 h1{
+    color:white;
+    font-size: 1.4rem;
+    font-style: normal;
+}
+.NT1 p{
+    color:darkgrey;
+    font-size: 1.2rem;
+    text-align: justify;
+
+}
+.NT1 a{
+    text-decoration: none;
+    color:#ad9970;
+    font-size: 15px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    
+
+}
+.NT1 span{
+    background-color: #ad9970;
+    color:white;
+    padding: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    border-radius: 40px;
+    
+
+}
+.NTH{
+    background-image: url("https://edge.rode.com/images/page/1/modules/7160/rode-nth100m-home-header-1920x700-rgb (1).jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 5%;
+    min-height: 90vh;
+}
+.NTH>div{
+    width: 40%;
+    margin-right: 60%;
+    margin-top: 10%;text-align: center;
+
+}
+.NTH h1{
+    color:white;
+    font-size: 1.6rem;
+    font-family:Arial, Helvetica, sans-serif;
+
+
+}
+.NTH p{
+    color:darkgrey;
+    font-size: 1.2rem;
+    font-stretch:semi-expanded;
+    
+
+}
+.NTH a{
+    color:#ad9970;
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.NTH span{
+    background-color: #ad9970;
+    color: white;
+    padding: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 50px;
+
+}
+
+
+.RODEBLOG{
+    background-position:center;
+    background-size:cover;
+    position:relative;
+    margin-right:20%;
+    min-height:90vh;
+    font-size: 1.2rem;
+    width:55%;
+.box{
+    display: flex;
+    justify-content:space-between;
+}
+}
+.RODEBLOG>div{
+    .block1{
+        text-align:center;
+        align-items:center;
+        justify-content:space-evenly;
+        padding-bottom: 10%;
+        font-size:1.09rem;
+        color:black;
+        padding-top: 3%;
+        padding-right: 5%;
+    }
+}
+.RODEBLOG P{
+    color:black;
+    font-size:0.9rem;
+    justify-content:flex-start;
+    padding: 2%;
+    width:200%;
+}
+.RODEBLOG>div{
+    .block2{
+    text-align:center;
+    justify-content:space-evenly;
+    font-size:0.9rem;
+    color:black;
+    width: 60%;
+    left:5%;
+    padding-top:2%;
+    }
+}
+.RODEBLOG P{
+    color:black;
+    font-size:1.16rem;
+    justify-content:flex-start;
+    align-content:flex-start;
+    width: 90%;
+}
+.RODEBLOG a{
+    color:#ad9970;
+    text-align: center;
+
+    font-size:1.6rem;
+    text-decoration: none;
+}
+.RODEBLOG span{
+    color:white;
+    background-color: #ad9970;
+    border-radius: 20px;
+    padding: 2%;
+}
+.RODE9{
+    background-position:center;
+    background-size:cover;
+    position:relative;
+    padding-top:0%;
+    min-height:50vh;
+    font-size: 1.8rem;
+    width:60%;
+.box{
+    display: flex;
+    justify-content:space-between;
+}
+}
+.RODE9>div{
+    .block1{
+        text-align:center;
+        align-items:center;
+        justify-content:space-evenly;
+        padding-bottom: 10%;
+        font-size:1.28rem;
+        color:black;
+        padding-top:1%;
+    }
+}
+.RODE9 P{
+    color:black;
+    font-size:1.0rem;
+    justify-content:flex-end;
+    width:110%;
+}
+.RODE9>div{
+    .block2{
+    text-align:center;
+    justify-content:space-evenly;
+    font-size:1.1rem;
+    color:black;
+    width: 60%;
+    padding-left:5%;
+    padding-top:3%;
+    }
+}
+.RODE9 P{
+    color:black;
+    font-size:1.38rem;
+    justify-content:flex-start;
+    align-content:flex-start;
+    width: 105%;
+    padding-left: 2%;
+}
+
+
+.RODE9 span{
+    color:white;
+    background-color: #ad9970;
+    border-radius: 22px;
+    padding: 2%;
+}
+.roderange{
+    color:#807f77;
+    font-size: 1.5rem;
+    text-align: center;
+    
+    
+}
+.box1{
+    text-align: center;
+    background-image: url("https://edge.rode.com/images%2Fpage%2F1%2Fmodules%2F5357%2Fmicrophones-module-1200x300-rgb.png");
+    width:90%;
+    height:40%;
+    margin-left: 5%;
+    
+    
+
+}
+ .box1 img{
+    padding-top:5%;
+}
+.box2{
+    background-image: url("https://rode.com/assets/images%2Fpage%2F1%2Fmodules%2F5359%2Finterfaces-module-2022-1200x300-rgb.jpg");
+    width:90%;
+    height:40%;
+    margin-left: 5%;
+    text-align: center;
+} 
+.box2 img{
+    padding-top:6%;
+}
+.box3{
+    background-image: url("https://edge.rode.com/images%2Fpage%2F1%2Fmodules%2F5361%2Fsoftware-module-2021-1200x300-rgb.png");
+    width:90%;
+    height:40%;
+    margin-left: 5%;
+    text-align: center;
+}
+.box3 img{
+    padding-top: 6%;
+}
+.box4{
+    background-image: url("https://edge.rode.com/images%2Fpage%2F1%2Fmodules%2F5370%2Faccessories-module-2021-1200x300-rgb.png");
+    width:90%;
+    height:40%;
+    margin-left: 5%;
+    text-align: center;
+
+}
+.box4 img{
+    padding-top: 6%;
+}
+.logo{
+    margin-left:5%;
+    margin-top: 5%;
+    
+}
+.box{
+    margin-left:20%;
+    
+
+    font-size:1.2rem;
+    line-height:20px;
+    float:left;
+    justify-content: space-between;
+    color:#807f77;
+    
+    
+    
+}
+.box h3{
+    color:black;
+
+}
+.list{
+    font-size:1.2rem;
+    line-height:20px;
+    float:left;
+    justify-content: space-between;
+    color:#807f77;
+    
+    
+    
+    
+    
+    
+}
+.list h3{
+    color:black;
+}
+.list1{
+    font-size:1.2rem;
+    line-height:20px;
+    padding-top: 0.5%;
+    color:#807f77;
+    float:left;
+    
+    
+    
+
+}
+.list1 h3{
+    color:black;
+}
+.link p{
+    margin-left:80%;
+    text-align: justify;
+    font-size: 1.65rem;
+    font-weight: bold;
+    
+    
+    
+}
+.link span{
+    
+    color:white;
+    background-color: #ad9970;
+    padding: 0.7%;
+
+    border-radius: 40px;
+    font-size: 1.4rem;
+    margin:15px;
+    
+
+}
+
+
+
+    
+
